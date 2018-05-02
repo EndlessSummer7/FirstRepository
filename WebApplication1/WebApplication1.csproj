@@ -76,6 +76,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="HtmlPage1.html" />
+    <Content Include="Images\25abe483-b5eb-4d76-ad8c-7faa982cdd06.jpg" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
